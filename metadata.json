@@ -1,33 +1,30 @@
 {
-  "momentos": [
+  "imagesRoot": "images/",
+  "moments": [
     {
       "id": "demo-2004-capa",
-      "titulo": "Capa da primeira demo",
-      "ano": 2004,
-      "descricao": "Desenho usado na capa da primeira demo da banda Midnight Rider.",
-      "imagens": [
+      "title": "Capa da primeira demo",
+      "year": 2004,
+      "description": "Desenho usado na capa da primeira demo da banda.",
+      "images": [
         {
           "file": "desenho da Capa.jpg",
-          "contexto": "Arte original da primeira demo da banda, produzida em 2004."
+          "path": "images/desenho da Capa.jpg",
+          "context": "Arte original da primeira demo, produzida em 2004. (arquivo: desenho da Capa.jpg)"
         }
       ]
     },
     {
       "id": "foto-oficial-2004",
-      "titulo": "Primeira foto oficial da banda",
-      "ano": 2004,
-      "descricao": "Primeira foto oficial da formação original da Midnight Rider.",
-      "integrantes": [
-        "Maykon",
-        "Wallisson",
-        "James",
-        "Miqueias",
-        "Juan"
-      ],
-      "imagens": [
+      "title": "Primeira foto oficial da banda",
+      "year": 2004,
+      "description": "Primeiro registro fotográfico oficial da formação original.",
+      "members": ["Maykon", "Wallisson", "James", "Miqueias", "Juan"],
+      "images": [
         {
           "file": "foto 1.jpg",
-          "contexto": "Primeiro registro fotográfico oficial da banda, tirado em 2004."
+          "path": "images/foto 1.jpg",
+          "context": "Primeiro registro fotográfico oficial da banda, tirado em 2004. (arquivo: foto 1.jpg)"
         }
       ]
     }
