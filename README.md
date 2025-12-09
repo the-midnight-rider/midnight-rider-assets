@@ -44,9 +44,9 @@ Todo vídeo listado aqui possui contexto, integrantes relacionados e URL estáve
 ### Vídeo – EP Demo: Midnight Rider (2004)
 
 **Tipo:** Vídeo
-**Contexto:** Vídeo oficial da faixa-título da primeira demo da banda.
+**Contexto:** Gravação completa, com todas as músicas da primeira demo da banda.
 **Ano:** 2004
-**Integrantes relacionados:** Maykon, Wallisson, James, Miqueias, Juan (Formação da demo)
+**Integrantes relacionados:** Maykon, Wallisson, Miqueias, Juan
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/W81AOvG8-sw
@@ -56,9 +56,9 @@ https://youtu.be/W81AOvG8-sw
 ### Vídeo – EP Demo: March for the Glory (2008)
 
 **Tipo:** Vídeo
-**Contexto:** Vídeo oficial da faixa "March for the Glory" da demo de 2008.
+**Contexto:** Gravação completa, com todas as músicas da demo "March for the Glory" de 2008.
 **Ano:** 2008
-**Integrantes relacionados:** Formação da época
+**Integrantes relacionados:** Wallisson, Maykon, Miqueias, Juan, James
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/idfttkDjCdI
@@ -70,7 +70,7 @@ https://youtu.be/idfttkDjCdI
 **Tipo:** Vídeo
 **Contexto:** Gravação de apresentação ao vivo realizada em 12 de dezembro.
 **Ano:** 2009
-**Integrantes relacionados:** Não especificado
+**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/Lxydee4oiJk
@@ -82,7 +82,7 @@ https://youtu.be/Lxydee4oiJk
 **Tipo:** Vídeo
 **Contexto:** Gravação de apresentação ao vivo realizada em 25 de abril.
 **Ano:** 2009
-**Integrantes relacionados:** Não especificado
+**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/coAFe4ViYOM
@@ -94,7 +94,7 @@ https://youtu.be/coAFe4ViYOM
 **Tipo:** Vídeo
 **Contexto:** Gravação de ensaio realizada em 20 de junho.
 **Ano:** 2010
-**Integrantes relacionados:** Não especificado
+**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/ossgDJK1Css
@@ -106,7 +106,7 @@ https://youtu.be/ossgDJK1Css
 **Tipo:** Vídeo
 **Contexto:** Gravação de apresentação ao vivo realizada em 03 de setembro.
 **Ano:** 2011
-**Integrantes relacionados:** Não especificado
+**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/J-1IoChGZKk
@@ -117,7 +117,7 @@ https://youtu.be/J-1IoChGZKk
 
 **Tipo:** Vídeo
 **Contexto:** Ensaio cover da música "Paradise" (Stratovarius) com a formação clássica.
-**Ano:** Não informado
+**Ano:** 2008
 **Integrantes relacionados:** Maykon, Wallisson, James, Juan, Miqueias
 **Plataforma:** YouTube
 **URL:**
@@ -129,8 +129,8 @@ https://youtu.be/VzfgMQ3OJMk
 
 **Tipo:** Vídeo
 **Contexto:** Ensaio cover da música "Aces High" (Iron Maiden) realizado na casa dos pais de James.
-**Ano:** Não informado
-**Integrantes relacionados:** James (local), Outros membros não listados
+**Ano:** 2009
+**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/bhc5UKbGwLQ
@@ -141,8 +141,8 @@ https://youtu.be/bhc5UKbGwLQ
 
 **Tipo:** Vídeo
 **Contexto:** Ensaio cover da música "Head Over Heels" (Accept).
-**Ano:** Não informado
-**Integrantes relacionados:** Não especificado
+**Ano:** 2008
+**Integrantes relacionados:** Wallisson, Maykon, Miqueias, Juan, James
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/E3K3glMQwHw
@@ -153,8 +153,8 @@ https://youtu.be/E3K3glMQwHw
 
 **Tipo:** Vídeo
 **Contexto:** Gravação de ensaio da música autoral "Don't Wait For The Thunder".
-**Ano:** Não informado
-**Integrantes relacionados:** Não especificado
+**Ano:** 2010
+**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/2oRc1pY2oK8
@@ -165,8 +165,8 @@ https://youtu.be/2oRc1pY2oK8
 
 **Tipo:** Vídeo
 **Contexto:** Gravação de ensaio da música autoral "Sons of the Battlefield".
-**Ano:** Não informado
-**Integrantes relacionados:** Não especificado
+**Ano:** 2019
+**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/oI9VDpEyp0k
@@ -178,7 +178,7 @@ https://youtu.be/oI9VDpEyp0k
 **Tipo:** Vídeo
 **Contexto:** Gravação de ensaio da música autoral "Midnight Rider" realizado na casa de Juan.
 **Ano:** Não informado
-**Integrantes relacionados:** Juan (local), Outros membros não listados
+**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/WQWqbryZIyQ
@@ -189,8 +189,8 @@ https://youtu.be/WQWqbryZIyQ
 
 **Tipo:** Vídeo
 **Contexto:** Ensaio cover da música "Victim of Fate" (Helloween).
-**Ano:** Não informado
-**Integrantes relacionados:** Não especificado
+**Ano:** 2011
+**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
 **Plataforma:** YouTube
 **URL:**
 https://youtu.be/pwdGXEf2I84
