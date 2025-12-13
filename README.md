@@ -1,6 +1,6 @@
 # Midnight Rider – Acervo Oficial de Assets
 
-Este repositório contém os assets (imagens e vídeos) oficiais da Midnight Rider, com links diretos e contexto para uso pelo avatar.
+Este repositório contém os assets (imagens, vídeos e arquivos) oficiais da Midnight Rider, com links diretos e contexto para uso pelo avatar.
 
 **Base URL oficial:**
 https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main
@@ -17,7 +17,7 @@ Toda imagem listada aqui possui contexto, integrantes relacionados e link RAW es
 **Contexto:** arte original da primeira demo da banda.
 **Ano:** 2004
 **Integrantes relacionados:** Maykon, Wallisson, James, Miqueias, Juan
-**Arquivo:** desenho da Capa.jpg
+**Arquivo:** images/desenho da Capa.jpg
 
 **Link:**
 https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/desenho%20da%20Capa.jpg
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/
 **Contexto:** primeira foto oficial registrada da Midnight Rider.
 **Ano:** 2004
 **Integrantes na foto:** Maykon, Wallisson, James, Miqueias, Juan
-**Arquivo:** foto 1.jpg
+**Arquivo:** images/foto 1.jpg
 
 **Link:**
 https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/foto%201.jpg
@@ -197,9 +197,26 @@ https://youtu.be/pwdGXEf2I84
 
 ---
 
+## Acervo Oficial de Documentos e Arquivos
+
+Todo arquivo listado aqui possui contexto, integrantes relacionados e link RAW estável.
+
+### História em Quadrinhos: Inside the dark forest
+
+**Tipo:** Documento/HQ
+**Contexto:** História em quadrinhos inspirada na letra da música "Midnight Rider", produzida por Maykon Deykon.
+**Ano:** 2025
+**Integrantes relacionados:** Maykon Deykon
+**Arquivo:** files/Inside the dark forest.pdf
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/files/Inside%20the%20dark%20forest.pdf
+
+---
+
 # Como adicionar novos assets
 
-Para cada novo asset (imagem na pasta `/images` ou referência de vídeo), criar um novo bloco seguindo o padrão correspondente.
+Para cada novo asset (imagem, vídeo ou arquivo), criar um novo bloco seguindo o padrão correspondente.
 
 ### Padrão para Imagens
 
@@ -209,10 +226,10 @@ Título do Momento
 **Contexto:** descrição curta e objetiva.
 **Ano:** XXXX
 **Integrantes relacionados:** nomes aqui
-**Arquivo:** nome_exato.jpg
+**Arquivo:** images/nome_exato.jpg
 
 **Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/NOME%20DO%20ARQUIVO.jpg
+URL RAW COMPLETA
 
 ---
 
@@ -230,9 +247,24 @@ LINK DO VÍDEO COMPLETO
 
 ---
 
+### Padrão para Documentos/Arquivos
+
+Título do Documento
+
+**Tipo:** Documento (ou tipo específico, ex: PDF, HQ)
+**Contexto:** descrição curta e objetiva.
+**Ano:** XXXX
+**Integrantes relacionados:** nomes aqui
+**Arquivo:** caminho/nome_exato.pdf
+
+**Link:**
+URL RAW COMPLETA (incluindo diretório)
+
+---
+
 # Regras para o avatar
 
-- O avatar deve usar somente assets (imagens e vídeos) documentados neste README.
+- O avatar deve usar somente assets (imagens, vídeos e arquivos) documentados neste README.
 - O avatar não pode mudar nomes de arquivos, datas, URLs, contextos ou tipos de asset.
 - O avatar não pode inventar assets, momentos, datas ou arquivos/URLs não listados aqui.
 - Caso o usuário peça algo não documentado, o avatar deve informar que o asset não está presente no acervo oficial.
