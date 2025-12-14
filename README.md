@@ -37,6 +37,175 @@ https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/
 
 ---
 
+### Foto Fim do Show em 18/10/2023
+
+**Tipo:** Imagem
+**Contexto:** Foto tirada no final do show realizado em 18 de Outubro.
+**Ano:** 2023
+**Integrantes na foto:** Maykon, Wallisson, James, Juan, Aurélio
+**Arquivo:** images/show-18-10-2013-1.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-18-10-2013-1.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 001)
+
+**Tipo:** Imagem
+**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
+**Ano:** 2009
+**Integrantes na foto:** James e Wallisson
+**Arquivo:** images/show-19-04-2009_001.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_001.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 002)
+
+**Tipo:** Imagem
+**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
+**Ano:** 2009
+**Integrantes na foto:** James
+**Arquivo:** images/show-19-04-2009_002.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_002.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 003)
+
+**Tipo:** Imagem
+**Contexto:** Foto de todos os integrantes no palco do Show no Balaiada Rock, 19/04/2009.
+**Ano:** 2009
+**Integrantes na foto:** James, Wallisson, Aurélio, Juan e Maykon
+**Arquivo:** images/show-19-04-2009_003.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_003.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 004)
+
+**Tipo:** Imagem
+**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009. Foco em Wallisson.
+**Ano:** 2009
+**Integrantes na foto:** Wallisson
+**Arquivo:** images/show-19-04-2009_004.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_004.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 005)
+
+**Tipo:** Imagem
+**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009. Foco em Wallisson.
+**Ano:** 2009
+**Integrantes na foto:** Wallisson
+**Arquivo:** images/show-19-04-2009_005.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_005.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 006)
+
+**Tipo:** Imagem
+**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009. Foco em Wallisson.
+**Ano:** 2009
+**Integrantes na foto:** Wallisson
+**Arquivo:** images/show-19-04-2009_006.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_006.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 007)
+
+**Tipo:** Imagem
+**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009. Foco em Wallisson.
+**Ano:** 2009
+**Integrantes na foto:** Wallisson
+**Arquivo:** images/show-19-04-2009_007.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_007.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 008)
+
+**Tipo:** Imagem
+**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
+**Ano:** 2009
+**Integrantes na foto:** Maykon e Aurélio
+**Arquivo:** images/show-19-04-2009_008.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_008.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 009)
+
+**Tipo:** Imagem
+**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
+**Ano:** 2009
+**Integrantes na foto:** Wallisson, Aurélio e James
+**Arquivo:** images/show-19-04-2009_009.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_009.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 010)
+
+**Tipo:** Imagem
+**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
+**Ano:** 2009
+**Integrantes na foto:** Wallisson, Aurélio, James e Maykon
+**Arquivo:** images/show-19-04-2009_010.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_010.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 011)
+
+**Tipo:** Imagem
+**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
+**Ano:** 2009
+**Integrantes na foto:** Maykon e Wallisson
+**Arquivo:** images/show-19-04-2009_011.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_011.jpg
+
+---
+
+### Show no Balaiada Rock (Foto 012)
+
+**Tipo:** Imagem
+**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
+**Ano:** 2009
+**Integrantes na foto:** Wallisson, Aurélio e James
+**Arquivo:** images/show-19-04-2009_012.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_012.jpg
+
+---
+
 ## Acervo Oficial de Vídeos
 
 Todo vídeo listado aqui possui contexto, integrantes relacionados e URL estável.
