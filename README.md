@@ -206,6 +206,110 @@ https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/
 
 ---
 
+### Cartaz: Show em 01/12/2006
+
+**Tipo:** Imagem/Cartaz
+**Contexto:** Cartaz oficial do show realizado em 01 de Dezembro.
+**Ano:** 2006
+**Integrantes relacionados:** Formação da época
+**Arquivo:** images/cartazes/cartaz-01-12-2006.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-01-12-2006.jpg
+
+---
+
+### Cartaz: Show em 08/11/2013
+
+**Tipo:** Imagem/Cartaz
+**Contexto:** Cartaz oficial do show realizado em 08 de Novembro.
+**Ano:** 2013
+**Integrantes relacionados:** Formação da época
+**Arquivo:** images/cartazes/cartaz-08-11-2013.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-08-11-2013.jpg
+
+---
+
+### Cartaz: Show em 10/03/2007
+
+**Tipo:** Imagem/Cartaz
+**Contexto:** Cartaz oficial do show realizado em 10 de Março.
+**Ano:** 2007
+**Integrantes relacionados:** Formação da época
+**Arquivo:** images/cartazes/cartaz-10-03-2007.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-10-03-2007.jpg
+
+---
+
+### Cartaz: Show em 10/05/2008
+
+**Tipo:** Imagem/Cartaz
+**Contexto:** Cartaz oficial do show realizado em 10 de Maio.
+**Ano:** 2008
+**Integrantes relacionados:** Formação da época
+**Arquivo:** images/cartazes/cartaz-10-05-2008.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-10-05-2008.jpg
+
+---
+
+### Cartaz: Show em 12/05/2007
+
+**Tipo:** Imagem/Cartaz
+**Contexto:** Cartaz oficial do show realizado em 12 de Maio.
+**Ano:** 2007
+**Integrantes relacionados:** Formação da época
+**Arquivo:** images/cartazes/cartaz-12-05-2007.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-12-05-2007.jpg
+
+---
+
+### Cartaz: Show em 16/06/2007
+
+**Tipo:** Imagem/Cartaz
+**Contexto:** Cartaz oficial do show realizado em 16 de Junho.
+**Ano:** 2007
+**Integrantes relacionados:** Formação da época
+**Arquivo:** images/cartazes/cartaz-16-06-2007.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-16-06-2007.jpg
+
+---
+
+### Cartaz: Show em 23/12/2006
+
+**Tipo:** Imagem/Cartaz
+**Contexto:** Cartaz oficial do show realizado em 23 de Dezembro.
+**Ano:** 2006
+**Integrantes relacionados:** Formação da época
+**Arquivo:** images/cartazes/cartaz-23-12-2006.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-23-12-2006.jpg
+
+---
+
+### Cartaz: Show em 24/09/2005
+
+**Tipo:** Imagem/Cartaz
+**Contexto:** Cartaz oficial do show realizado em 24 de Setembro.
+**Ano:** 2005
+**Integrantes relacionados:** Formação da época
+**Arquivo:** images/cartazes/cartaz-24-09-2005.jpg
+
+**Link:**
+https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-24-09-2005.jpg
+
+---
+
 ## Acervo Oficial de Vídeos
 
 Todo vídeo listado aqui possui contexto, integrantes relacionados e URL estável.
