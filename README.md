@@ -14,7 +14,7 @@ Toda imagem listada aqui possui contexto, integrantes relacionados e link RAW es
 ### Capa da Primeira Demo
 
 **Tipo:** Imagem
-**Contexto:** arte original da primeira demo da banda.
+**Contexto:** arte original da primeira demo da banda, desenhada à mão por Wellington Dourado.
 **Ano:** 2004
 **Integrantes relacionados:** Maykon, Wallisson, James, Miqueias, Juan
 **Arquivo:** images/desenho da Capa.jpg
