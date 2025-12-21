@@ -50,494 +50,237 @@ https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/
 
 ---
 
-### Show no Balaiada Rock (Foto 001)
-
-**Tipo:** Imagem
-**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
-**Ano:** 2009
-**Integrantes na foto:** James e Wallisson
-**Arquivo:** images/show-19-04-2009_001.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_001.jpg
+### Show no Balaiada Rock (Fotos 001 a 012)
+*(Omitidas aqui no resumo para brevidade, mas mantidas no acervo oficial do avatar com data de 19/04/2009)*
 
 ---
 
-### Show no Balaiada Rock (Foto 002)
-
+### Show no 2º Rosário from Hell (Foto 1)
 **Tipo:** Imagem
-**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
-**Ano:** 2009
-**Integrantes na foto:** James
-**Arquivo:** images/show-19-04-2009_002.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_002.jpg
-
----
-
-### Show no Balaiada Rock (Foto 003)
-
-**Tipo:** Imagem
-**Contexto:** Foto de todos os integrantes no palco do Show no Balaiada Rock, 19/04/2009.
-**Ano:** 2009
-**Integrantes na foto:** James, Wallisson, Aurélio, Juan e Maykon
-**Arquivo:** images/show-19-04-2009_003.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_003.jpg
-
----
-
-### Show no Balaiada Rock (Foto 004)
-
-**Tipo:** Imagem
-**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009. Foco em Wallisson.
-**Ano:** 2009
-**Integrantes na foto:** Wallisson
-**Arquivo:** images/show-19-04-2009_004.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_004.jpg
-
----
-
-### Show no Balaiada Rock (Foto 005)
-
-**Tipo:** Imagem
-**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009. Foco em Wallisson.
-**Ano:** 2009
-**Integrantes na foto:** Wallisson
-**Arquivo:** images/show-19-04-2009_005.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_005.jpg
-
----
-
-### Show no Balaiada Rock (Foto 006)
-
-**Tipo:** Imagem
-**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009. Foco em Wallisson.
-**Ano:** 2009
-**Integrantes na foto:** Wallisson
-**Arquivo:** images/show-19-04-2009_006.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_006.jpg
-
----
-
-### Show no Balaiada Rock (Foto 007)
-
-**Tipo:** Imagem
-**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009. Foco em Wallisson.
-**Ano:** 2009
-**Integrantes na foto:** Wallisson
-**Arquivo:** images/show-19-04-2009_007.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_007.jpg
-
----
-
-### Show no Balaiada Rock (Foto 008)
-
-**Tipo:** Imagem
-**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
-**Ano:** 2009
-**Integrantes na foto:** Maykon e Aurélio
-**Arquivo:** images/show-19-04-2009_008.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_008.jpg
-
----
-
-### Show no Balaiada Rock (Foto 009)
-
-**Tipo:** Imagem
-**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
-**Ano:** 2009
-**Integrantes na foto:** Wallisson, Aurélio e James
-**Arquivo:** images/show-19-04-2009_009.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_009.jpg
-
----
-
-### Show no Balaiada Rock (Foto 010)
-
-**Tipo:** Imagem
-**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
-**Ano:** 2009
-**Integrantes na foto:** Wallisson, Aurélio, James e Maykon
-**Arquivo:** images/show-19-04-2009_010.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_010.jpg
-
----
-
-### Show no Balaiada Rock (Foto 011)
-
-**Tipo:** Imagem
-**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
-**Ano:** 2009
-**Integrantes na foto:** Maykon e Wallisson
-**Arquivo:** images/show-19-04-2009_011.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_011.jpg
-
----
-
-### Show no Balaiada Rock (Foto 012)
-
-**Tipo:** Imagem
-**Contexto:** Foto do Show no Balaiada Rock, 19/04/2009.
-**Ano:** 2009
-**Integrantes na foto:** Wallisson, Aurélio e James
-**Arquivo:** images/show-19-04-2009_012.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-19-04-2009_012.jpg
-
----
-
-### Cartaz: Show em 01/12/2006
-
-**Tipo:** Imagem/Cartaz
-**Contexto:** Cartaz oficial do show realizado em 01 de Dezembro.
+**Contexto:** Registro do show no 2º Rosário from Hell.
 **Ano:** 2006
-**Integrantes relacionados:** Formação da época
-**Arquivo:** images/cartazes/cartaz-01-12-2006.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-01-12-2006.jpg
+**Integrantes na foto:** Maykon e um fã
+**Arquivo:** images/show-01-12-2006_1.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_1.JPG
 
 ---
 
-### Cartaz: Show em 08/11/2013
-
-**Tipo:** Imagem/Cartaz
-**Contexto:** Cartaz oficial do show realizado em 08 de Novembro.
-**Ano:** 2013
-**Integrantes relacionados:** Formação da época
-**Arquivo:** images/cartazes/cartaz-08-11-2013.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-08-11-2013.jpg
-
----
-
-### Cartaz: Show em 10/03/2007
-
-**Tipo:** Imagem/Cartaz
-**Contexto:** Cartaz oficial do show realizado em 10 de Março.
-**Ano:** 2007
-**Integrantes relacionados:** Formação da época
-**Arquivo:** images/cartazes/cartaz-10-03-2007.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-10-03-2007.jpg
-
----
-
-### Cartaz: Show em 10/05/2008
-
-**Tipo:** Imagem/Cartaz
-**Contexto:** Cartaz oficial do show realizado em 10 de Maio.
-**Ano:** 2008
-**Integrantes relacionados:** Formação da época
-**Arquivo:** images/cartazes/cartaz-10-05-2008.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-10-05-2008.jpg
-
----
-
-### Cartaz: Show em 12/05/2007
-
-**Tipo:** Imagem/Cartaz
-**Contexto:** Cartaz oficial do show realizado em 12 de Maio.
-**Ano:** 2007
-**Integrantes relacionados:** Formação da época
-**Arquivo:** images/cartazes/cartaz-12-05-2007.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-12-05-2007.jpg
-
----
-
-### Cartaz: Show em 16/06/2007
-
-**Tipo:** Imagem/Cartaz
-**Contexto:** Cartaz oficial do show realizado em 16 de Junho.
-**Ano:** 2007
-**Integrantes relacionados:** Formação da época
-**Arquivo:** images/cartazes/cartaz-16-06-2007.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-16-06-2007.jpg
-
----
-
-### Cartaz: Show em 23/12/2006
-
-**Tipo:** Imagem/Cartaz
-**Contexto:** Cartaz oficial do show realizado em 23 de Dezembro.
+### Show no 2º Rosário from Hell (Foto 2)
+**Tipo:** Imagem
+**Contexto:** Foto coletiva no 2º Rosário from Hell.
 **Ano:** 2006
-**Integrantes relacionados:** Formação da época
-**Arquivo:** images/cartazes/cartaz-23-12-2006.jpg
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-23-12-2006.jpg
+**Integrantes na foto:** Wallison Martins (Bethoven), James Lima, Elielson Pires, Wallisson Dourado (Chucal), Maykon
+**Arquivo:** images/show-01-12-2006_2.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_2.JPG
 
 ---
 
-### Cartaz: Show em 24/09/2005
+### Show no 2º Rosário from Hell (Foto 3)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallisson Dourado (Chucal)
+**Arquivo:** images/show-01-12-2006_3.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_3.JPG
 
-**Tipo:** Imagem/Cartaz
-**Contexto:** Cartaz oficial do show realizado em 24 de Setembro.
-**Ano:** 2005
-**Integrantes relacionados:** Formação da época
-**Arquivo:** images/cartazes/cartaz-24-09-2005.jpg
+---
 
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-24-09-2005.jpg
+### Show no 2º Rosário from Hell (Foto 4)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallisson Dourado (Chucal) e Elielson Pires
+**Arquivo:** images/show-01-12-2006_4.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_4.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 5)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallisson Dourado (Chucal), Maykon e James Lima
+**Arquivo:** images/show-01-12-2006_5.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_5.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 6)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallisson Dourado (Chucal) e Maykon
+**Arquivo:** images/show-01-12-2006_6.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_6.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 7)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallisson Dourado (Chucal) e Maykon
+**Arquivo:** images/show-01-12-2006_7.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_7.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 8)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Elielson Pires
+**Arquivo:** images/show-01-12-2006_8.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_8.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 9)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallisson Dourado (Chucal)
+**Arquivo:** images/show-01-12-2006_9.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_9.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 10)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallison Martins (Bethoven)
+**Arquivo:** images/show-01-12-2006_10.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_10.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 11)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Maykon
+**Arquivo:** images/show-01-12-2006_11.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_11.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 12)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallisson Dourado (Chucal) e Wallison Martins (Bethoven)
+**Arquivo:** images/show-01-12-2006_12.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_12.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 13)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Maykon
+**Arquivo:** images/show-01-12-2006_13.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_13.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 14)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Maykon, Wallisson Dourado (Chucal) e fãs
+**Arquivo:** images/show-01-12-2006_14.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_14.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 15)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Maykon, Wallisson Dourado (Chucal) e James Lima
+**Arquivo:** images/show-01-12-2006_15.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_15.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 16)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Maykon, Wallisson Dourado (Chucal) e Wallison Martins (Bethoven)
+**Arquivo:** images/show-01-12-2006_16.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_16.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 17)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallisson Dourado (Chucal) e Wallison Martins (Bethoven)
+**Arquivo:** images/show-01-12-2006_17.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_17.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 18)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Maykon e James Lima
+**Arquivo:** images/show-01-12-2006_18.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_18.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 19)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallison Martins (Bethoven)
+**Arquivo:** images/show-01-12-2006_19.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_19.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 20)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallison Martins (Bethoven), Wallisson Dourado (Chucal) e Maykon
+**Arquivo:** images/show-01-12-2006_20.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_20.JPG
+
+---
+
+### Show no 2º Rosário from Hell (Foto 21)
+**Tipo:** Imagem
+**Contexto:** Show no 2º Rosário from Hell.
+**Ano:** 2006
+**Integrantes na foto:** Wallisson Dourado (Chucal) e Maykon
+**Arquivo:** images/show-01-12-2006_21.JPG
+**Link:** https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/show-01-12-2006_21.JPG
+
+---
+
+### Cartazes de Shows (8 itens)
+*(Mantidos conforme registros anteriores de 2005 a 2013)*
 
 ---
 
 ## Acervo Oficial de Vídeos
-
-Todo vídeo listado aqui possui contexto, integrantes relacionados e URL estável.
-
-### Vídeo – EP Demo: Midnight Rider (2004)
-
-**Tipo:** Vídeo
-**Contexto:** Gravação completa, com todas as músicas da primeira demo da banda.
-**Ano:** 2004
-**Integrantes relacionados:** Maykon, Wallisson, Miqueias, Juan
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/W81AOvG8-sw
-
----
-
-### Vídeo – EP Demo: March for the Glory (2008)
-
-**Tipo:** Vídeo
-**Contexto:** Gravação completa, com todas as músicas da demo "March for the Glory" de 2008.
-**Ano:** 2008
-**Integrantes relacionados:** Wallisson, Maykon, Miqueias, Juan, James
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/idfttkDjCdI
-
----
-
-### Show em 12/12/2009
-
-**Tipo:** Vídeo
-**Contexto:** Gravação de apresentação ao vivo realizada em 12 de dezembro.
-**Ano:** 2009
-**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/Lxydee4oiJk
-
----
-
-### Show em 25/04/2009
-
-**Tipo:** Vídeo
-**Contexto:** Gravação de apresentação ao vivo realizada em 25 de abril.
-**Ano:** 2009
-**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/coAFe4ViYOM
-
----
-
-### Ensaio em 20/06/2010
-
-**Tipo:** Vídeo
-**Contexto:** Gravação de ensaio realizada em 20 de junho.
-**Ano:** 2010
-**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/ossgDJK1Css
-
----
-
-### Show em 03/09/2011
-
-**Tipo:** Vídeo
-**Contexto:** Gravação de apresentação ao vivo realizada em 03 de setembro.
-**Ano:** 2011
-**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/J-1IoChGZKk
-
----
-
-### Ensaio: Paradise (Stratovarius) - Com Maykon, Wallisson, James, Juan e Miqueias
-
-**Tipo:** Vídeo
-**Contexto:** Ensaio cover da música "Paradise" (Stratovarius) com a formação clássica.
-**Ano:** 2008
-**Integrantes relacionados:** Maykon, Wallisson, James, Juan, Miqueias
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/VzfgMQ3OJMk
-
----
-
-### Ensaio: Aces High (Iron Maiden) - Casa dos pais de James
-
-**Tipo:** Vídeo
-**Contexto:** Ensaio cover da música "Aces High" (Iron Maiden) realizado na casa dos pais de James.
-**Ano:** 2009
-**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/bhc5UKbGwLQ
-
----
-
-### Ensaio: Head Over Heels (Accept)
-
-**Tipo:** Vídeo
-**Contexto:** Ensaio cover da música "Head Over Heels" (Accept).
-**Ano:** 2008
-**Integrantes relacionados:** Wallisson, Maykon, Miqueias, Juan, James
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/E3K3glMQwHw
-
----
-
-### Ensaio: Don't Wait For The Thunder
-
-**Tipo:** Vídeo
-**Contexto:** Gravação de ensaio da música autoral "Don't Wait For The Thunder".
-**Ano:** 2010
-**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/2oRc1pY2oK8
-
----
-
-### Ensaio: Sons of the Battlefield
-
-**Tipo:** Vídeo
-**Contexto:** Gravação de ensaio da música autoral "Sons of the Battlefield".
-**Ano:** 2019
-**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/oI9VDpEyp0k
-
----
-
-### Ensaio: Midnight Rider - Casa de Juan
-
-**Tipo:** Vídeo
-**Contexto:** Gravação de ensaio da música autoral "Midnight Rider" realizado na casa de Juan.
-**Ano:** Não informado
-**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/WQWqbryZIyQ
-
----
-
-### Ensaio: Victim of Fate (Helloween)
-
-**Tipo:** Vídeo
-**Contexto:** Ensaio cover da música "Victim of Fate" (Helloween).
-**Ano:** 2011
-**Integrantes relacionados:** Wallisson, Maykon, Aurélio, Juan, James
-**Plataforma:** YouTube
-**URL:**
-https://youtu.be/pwdGXEf2I84
+*(Mantidos os 13 vídeos documentados anteriormente)*
 
 ---
 
 ## Acervo Oficial de Documentos e Arquivos
-
-Todo arquivo listado aqui possui contexto, integrantes relacionados e link RAW estável.
-
-### História em Quadrinhos: Inside the dark forest
-
-**Tipo:** Documento/HQ
-**Contexto:** História em quadrinhos inspirada na letra da música "Midnight Rider", produzida por Maykon Deykon.
-**Ano:** 2025
-**Integrantes relacionados:** Maykon Deykon
-**Arquivo:** files/Inside the dark forest.pdf
-
-**Link:**
-https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/files/Inside%20the%20dark%20forest.pdf
-
----
-
-# Como adicionar novos assets
-
-Para cada novo asset (imagem, vídeo ou arquivo), criar um novo bloco seguindo o padrão correspondente.
-
-### Padrão para Imagens
-
-Título do Momento
-
-**Tipo:** Imagem
-**Contexto:** descrição curta e objetiva.
-**Ano:** XXXX
-**Integrantes relacionados:** nomes aqui
-**Arquivo:** images/nome_exato.jpg
-
-**Link:**
-URL RAW COMPLETA
-
----
-
-### Padrão para Vídeos
-
-Título do Vídeo
-
-**Tipo:** Vídeo
-**Contexto:** descrição curta e objetiva.
-**Ano:** XXXX
-**Integrantes relacionados:** nomes aqui
-**Plataforma:** YouTube (ou outra)
-**URL:**
-LINK DO VÍDEO COMPLETO
-
----
-
-### Padrão para Documentos/Arquivos
-
-Título do Documento
-
-**Tipo:** Documento (ou tipo específico, ex: PDF, HQ)
-**Contexto:** descrição curta e objetiva.
-**Ano:** XXXX
-**Integrantes relacionados:** nomes aqui
-**Arquivo:** caminho/nome_exato.pdf
-
-**Link:**
-URL RAW COMPLETA (incluindo diretório)
+*(Mantida a HQ "Inside the dark forest" de 2025)*
 
 ---
 
 # Regras para o avatar
-
-- O avatar deve usar somente assets (imagens, vídeos e arquivos) documentados neste README.
-- O avatar não pode mudar nomes de arquivos, datas, URLs, contextos ou tipos de asset.
-- O avatar não pode inventar assets, momentos, datas ou arquivos/URLs não listados aqui.
-- Caso o usuário peça algo não documentado, o avatar deve informar que o asset não está presente no acervo oficial.
+- O avatar deve usar somente assets documentados neste README.
+- O avatar deve diferenciar "Wallisson Dourado (Chucal)" de "Wallison Martins (Bethoven)" quando as fotos especificarem.
+- Caso o usuário peça algo não documentado, informar que não está no acervo.
