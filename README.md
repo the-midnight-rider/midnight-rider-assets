@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/
 **Cartaz: Show em 24/09/2005**
 - Link: [Visualizar](https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-24-09-2005.jpg)
 
-**Cartaz: Show em 11/02/2006** *(Novo)*
+**Cartaz: Show em 11/02/2006**
 - Link: [Visualizar](https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-11-02-2006.jpeg)
 
 **Cartaz: Show em 01/12/2006**
@@ -119,8 +119,11 @@ https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/
 **Cartaz: Show em 10/05/2008**
 - Link: [Visualizar](https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-10-05-2008.jpg)
 
-**Cartaz: Show em 19/04/2009** *(Novo)*
+**Cartaz: Show em 19/04/2009**
 - Link: [Visualizar](https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-19-04-2009.jpg)
+
+**Cartaz: Show em 25/04/2009** *(Novo)*
+- Link: [Visualizar](https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-25-04-2009.jpeg)
 
 **Cartaz: Show em 08/11/2013**
 - Link: [Visualizar](https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-08-11-2013.jpg)
