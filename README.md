@@ -122,7 +122,7 @@ https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/
 **Cartaz: Show em 19/04/2009**
 - Link: [Visualizar](https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-19-04-2009.jpg)
 
-**Cartaz: Show em 25/04/2009** *(Novo)*
+**Cartaz: Show em 25/04/2009**
 - Link: [Visualizar](https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/images/cartazes/cartaz-25-04-2009.jpeg)
 
 **Cartaz: Show em 08/11/2013**
@@ -152,6 +152,15 @@ https://raw.githubusercontent.com/the-midnight-rider/midnight-rider-assets/main/
 - **Victim of Fate (Helloween) - 2011:** [https://youtu.be/pwdGXEf2I84](https://youtu.be/pwdGXEf2I84)
 - **Midnight Rider (Casa de Juan):** [https://youtu.be/WQWqbryZIyQ](https://youtu.be/WQWqbryZIyQ)
 - **Sons of the Battlefield - 2019:** [https://youtu.be/oI9VDpEyp0k](https://youtu.be/oI9VDpEyp0k)
+
+---
+
+## Acervo Oficial de Contos (Histórias, Lendas)
+
+### O conto do Midnight Rider
+**Tipo:** Vídeo/Conto
+**Contexto:** Conta a história por trás da letra da música "Midnight Rider".
+**URL:** [https://youtube.com/shorts/oOcnCQ7x6lw?feature=share](https://youtube.com/shorts/oOcnCQ7x6lw?feature=share)
 
 ---
 
